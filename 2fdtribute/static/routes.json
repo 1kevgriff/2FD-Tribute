@@ -2,7 +2,8 @@
     "routes": [
         {
             "route": "/podcast",
-            "serve": "/api/podcast"
+            "serve": "/api/podcast",
+            "statusCode": 301
         }
     ]
 }
