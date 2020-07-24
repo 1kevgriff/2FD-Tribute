@@ -1,0 +1,13 @@
+{
+  "name": "2fdtribute",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0",
+    "rss-parser": "^3.9.0"
+  }
+}
